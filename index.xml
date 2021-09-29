@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://teotoplak./</link>
+    <link>https://teotoplak.github.io/blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <image>
-      <url>https://teotoplak./resources/toplak.jpeg</url>
-      <link>https://teotoplak./resources/toplak.jpeg</link>
+      <url>https://teotoplak.github.io/blog/resources/toplak.jpeg</url>
+      <link>https://teotoplak.github.io/blog/resources/toplak.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Sep 2021 11:19:58 +0200</lastBuildDate><atom:link href="https://teotoplak./index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 11:19:58 +0200</lastBuildDate><atom:link href="https://teotoplak.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Closing the Evolution Gap</title>
-      <link>https://teotoplak./posts/closing-the-evolution-gap/</link>
+      <link>https://teotoplak.github.io/blog/posts/closing-the-evolution-gap/</link>
       <pubDate>Wed, 29 Sep 2021 11:19:58 +0200</pubDate>
       
-      <guid>https://teotoplak./posts/closing-the-evolution-gap/</guid>
+      <guid>https://teotoplak.github.io/blog/posts/closing-the-evolution-gap/</guid>
       <description>The Evolution Gap Two hundred thousand years ago, Homo sapiens were walking with a relatively similar brain to one we currently have in our heads. If you would take a baby from thousands of years ago, it would grow indistinguishable from other people in present surroundings. Our brain physiology didn&amp;rsquo;t change much. But our environment changed drastically.
 For example, in Homo Sapiens age you would need to make decisions about where and how to find food.</description>
     </item>
