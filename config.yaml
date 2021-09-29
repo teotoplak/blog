@@ -1,6 +1,6 @@
 baseURL: https://teotoplak.com/
 languageCode: en-us
-title: My New Hugo Site
+title: teotoplak.com
 theme: PaperMod
 
 enableRobotsTXT: true
