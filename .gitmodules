@@ -1,0 +1,3 @@
+[submodule "PaperMod-theme"] 
+  path = themes/PaperMod 
+  url = git://url-of-source/
