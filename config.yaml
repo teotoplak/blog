@@ -77,6 +77,8 @@ params:
     socialIcons:
         - name: linkedin
           url: "https://www.linkedin.com/in/teo-toplak-89151594/"
+        - name: github
+          url: "https://github.com/teotoplak"
 
     analytics:
         google:
