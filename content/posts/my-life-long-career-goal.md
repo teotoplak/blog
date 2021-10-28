@@ -44,7 +44,7 @@ A reachable goal is a clear goal. That is why I need to define this goal more cl
 - One million can be a sum from multiple different services I provided.
 - By "net positive impact" I mean creating a positive change for the sake of society. It can be either direct (the service itself creates a positive change), or indirect (the service is an enabler for something which creates a positive change).
 - In case I am part of an organization, I will consider that I am serving somebody when I am at a position that is both measurable and has leverage. The performance of my work needs to be measurable so I can safely say I did indeed provide value. It also needs enough leverage in the sense that my decisions have a big effect. This is usually a leader position of some sort, like CEO, founder, lead of engineering, product manager, etc.
-- By "personally sustainable way" I mean that I should not sacrifice my standards for health, relationships or violate any other areas of life in pursuit of this goal. Not just because a career should be there to fund those in the first place, but because that is a good long-term strategy for reaching big goals like these.
+- By "personally sustainable way" I mean that I should not sacrifice my health, relationships, happiness or any other foundational and important area of life in pursuit of this goal. Not just because a career should be there to fund those in the first place, but because that is a good long-term strategy for reaching big goals like these.
 
 ---
 
