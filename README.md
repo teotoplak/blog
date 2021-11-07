@@ -2,6 +2,10 @@
 
 This is my personal blog. Hooraay!
 
+## Installation
+
+You need to install the theme: https://github.com/teotoplak/hugo-PaperMod/wiki/Installation
+
 ## How to add posts
 
 ```git checkout main```
