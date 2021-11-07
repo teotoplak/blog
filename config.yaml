@@ -28,8 +28,8 @@ params:
     disableThemeToggle: false
 
     ShowReadingTime: true
-    ShowShareButtons: true
-    ShowPostNavLinks: true
+    ShowShareButtons: false
+    ShowPostNavLinks: false
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: false
     disableSpecial1stPost: false
@@ -37,6 +37,7 @@ params:
     comments: fa
     hidemeta: false
     hideSummary: false
+    hideFooter: true
     showtoc: false
     tocopen: false
 
