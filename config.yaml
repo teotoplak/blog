@@ -77,6 +77,8 @@ params:
           Ex-Amazon Software Engineer. Creator of [JayOne.org](https://jayone.org)
           
     socialIcons:
+        - name: email
+          url: "mailto:teotoplak95@email.com"
         - name: linkedin
           url: "https://www.linkedin.com/in/teo-toplak-89151594/"
         - name: github
