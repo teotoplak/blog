@@ -4,7 +4,9 @@ This is my personal blog. Hooraay!
 
 ## Installation
 
-You need to install the theme: https://github.com/teotoplak/hugo-PaperMod/wiki/Installation
+You need to install the theme: https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
+
+But I forked the repo, so use: ```git clone https://github.com/teotoplak/hugo-PaperMod themes/PaperMod --depth=1```
 
 ## How to add posts
 
