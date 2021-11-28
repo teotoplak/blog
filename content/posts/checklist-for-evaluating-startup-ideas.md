@@ -28,9 +28,9 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/teotoplak/blog/tree/main/content/posts"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 ---
 
 This is my checklist for evaluating startup ideas. It also helps you define the most important aspects of an early startup business.
