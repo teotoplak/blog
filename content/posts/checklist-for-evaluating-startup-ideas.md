@@ -38,7 +38,7 @@ I consider a startup an organization that is creating a scalable service or a pr
 
 ### Pitch
 
-Creating a pitch is a forcing function for achieving clarity about an idea. I this case a good pitch contains less than 50 characters, has well defined what you're building (product), and from whom are you building (customer). You don't need a how or a why, just what.
+Creating a pitch is a forcing function for achieving clarity about an idea. In this case a good pitch contains less than 50 characters, defines well what you're building (product), and for whom you're building (customer). You don't need a how or a why, just what.
 
 To be able to distill an idea into a concise and clear pitch one needs to have a lot of clarity about the idea. It helps you set your initial scope and removes any unnecessary fluff or ambiguity.
 
@@ -56,13 +56,13 @@ Would you pay for this service yourself? If you're not a potential customer, try
 
 ### Product and customer risk
 
-The very best startup ideas tend to have three things in common: they're something the founders themselves want (previous point), that they can build (product risk), and that few others realize are worth doing (customer risk).
+The very best startup ideas tend to have three things in common: the service is something the founders themselves want (previous point), that they can build (product risk), and that few others realize it's worth doing (customer risk).
 
 Product risk: Can I build it? Can I grow it? Video games are a pure product risk - customers will play if you can build it.
 
 Customer risk: Do they want it? Will they pay me? Are there lots of them?
 
-Be aware that those are your leap-of-faith assumptions - your biggest weapon and your biggest enemy. Assumptions like these differentiate you from other companies, but they are also the foundation of your business. In an early startup stage, your main goal should be validating those hypotheses (Lean Startup methodology). Pivot is necessary if hypotheses are proven to be wrong.
+Be aware that those are your leap-of-faith assumptions - your biggest weapon and your biggest enemy. Assumptions like these differentiate you from other companies, but they are also the foundation of your business. In an early startup stage, your main goal should be validating those hypotheses (Lean Startup methodology). Pivoting is necessary if hypotheses are proven to be wrong.
 
 ### Secret
 
@@ -98,17 +98,17 @@ You always have competition. At a minimum, there is at least indirect competitio
 
 Will your market be defensible 10 and 20 years into the future? How durable is this idea? What is your moat strategy? How fast can a bigger company develop the same solution you're developing? Notice that there is not an "if" a bigger company can develop the same solution - there are always companies out there that can build similar solutions in the long run.
 
-According to YCombinator, an early startup rarely die from homicide, it is mostly a suicide. So don't focus on moat and competition early on, but your idea needs a potential moat strategy defined from a start.
+According to YCombinator, early startups rarely die from homicide, it is mostly a suicide. So don't focus on moat and competition early on, but your idea needs a potential moat strategy defined from the start.
 
 ### Founder-market fit.
 
-How much knowledge do you as a founder have of a domain you're building it in? Bonus points for this idea if you do. That gives you a lot of leverage, and critical assumptions you're making come from experience.
+How much knowledge do you as a founder have of the domain you're building in? Bonus points for this idea if you do. That gives you a lot of leverage, and critical assumptions you're making come from experience.
 
 ### People
 
 Do you have the right team?
 
-If you don't have a co-founder try to find one as soon as possible. There is a whole range of benefits to it.
+If you don't have a co-founder, try to find one as soon as possible. There is a whole range of benefits to it.
 
 ### Distribution
 
@@ -116,7 +116,7 @@ Do you have a way to not just create but deliver your product?
 
 ### Value capture
 
-Can you capture enough value? Sometimes a company can create a lot of value, but not capture it (make money out of it).
+Can you capture enough value? Sometimes a company can create a lot of value but not capture it (make money out of it).
 
 For example, Wikipedia is producing a lot of value, but capturing almost none. Airplane companies earned 37 cents per passenger in 2012, but they were creating $160 billion dollars per year. Google on the other hand created $60 billion in the same year, but it was able to keep 21% of those revenues as profits.
 
