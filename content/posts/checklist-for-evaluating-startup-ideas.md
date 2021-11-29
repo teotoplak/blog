@@ -15,7 +15,6 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-draft: true
 searchHidden: true
 
 ShowReadingTime: true
