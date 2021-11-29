@@ -96,7 +96,9 @@ You always have competition. At a minimum, there is at least indirect competitio
 
 ### The Moat
 
-Will your market be defensible 10 and 20 years into the future? How durable is this idea? What is your moat strategy? How fast can a bigger company develop the same solution you're developing? Notice that there is not an "if" a bigger company can develop the same solution - there are always companies out there that can build similar solutions in the long run.
+Moat strategies help businesses to be defensible 10 and 20 years into the future. Examples of moat strategies are proprietary technology, exclusive partnerships, protected intellectual property (patents, copyrights) and a lot more. 
+
+So how durable is this idea? What is your moat strategy? How fast can a bigger company develop the same solution you're developing? Notice that there is not an "if" a bigger company can develop the same solution - there are always companies out there that can build similar solutions in the long run.
 
 According to YCombinator, early startups rarely die from homicide, it is mostly a suicide. So don't focus on moat and competition early on, but your idea needs a potential moat strategy defined from the start.
 
