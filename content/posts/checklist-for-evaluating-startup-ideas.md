@@ -27,7 +27,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/teotoplak/blog/tree/main/content/posts"
+    URL: "https://github.com/teotoplak/blog/blob/main/content/posts/checklist-for-evaluating-startup-ideas.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
