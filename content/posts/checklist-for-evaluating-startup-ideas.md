@@ -102,7 +102,7 @@ So how durable is this idea? What is your moat strategy? How fast can a bigger c
 
 According to YCombinator, early startups rarely die from homicide, it is mostly a suicide. So don't focus on moat and competition early on, but your idea needs a potential moat strategy defined from the start.
 
-### Founder-market fit.
+### Founder-market fit
 
 How much knowledge do you as a founder have of the domain you're building in? Bonus points for this idea if you do. That gives you a lot of leverage, and critical assumptions you're making come from experience.
 
