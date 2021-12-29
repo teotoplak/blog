@@ -38,8 +38,12 @@ Cynefin framework is a great tool for decision-making. It was coined by Dave Sno
 3. **Complex:** There is no good practice solution for this problem. You don’t have a good or best practice solution because the problem is ambiguous. In Snowden’s words, you need to “probe” the problem by experimenting and learning about the problem first. At AWS I was assigned to develop a monitoring solution for Amazon’s network of devices. Since this problem is ambiguous, and there  are no good practice solutions available, it is a complex domain problem.
 4. **Chaos**: No cause and effect relationship exists. There is almost no reliable information. The problem is completely novel and it requires some kind of action to address stable parts of the problem that can be moved into the complex problem domain. Covid pandemic is a chaotic problem. 
 
+![cynefin-framework.png](/cynefin-framework.png)
+
 Both complex and chaos domains are categorised as “unordered” domains, meaning cause and effect can only be deducted in hindsight after experimenting and interacting with the environment. It is very important to understand when your problem is in the “unordered” domain because you should automatically switch to methodologies where progress is measured in learning. 
 
-**All startups fall into the complex domain.** That is the gist of the “Lean Startup” movement and its principles. It addresses the fact that startups operate in an environment of extreme uncertainty and enforces a mindset where the primary goal is learning from probing a market and probing a problem. 
+**All startups fall into the complex domain.** That is the gist of the [Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) movement and its principles. It addresses the fact that startups operate in an environment of extreme uncertainty and enforces a mindset where the primary goal is learning from probing a market and probing a problem. 
 
 Looking at the other way around, **when you are dealing with a complex problem at work, you are running a small-scale startup**. You must first probe the problem, get reliable data from probing, and learn from that data so you can make further decisions.
+
+For instance, at [JayOne.org](http://JayOne.org) we are not measuring our progress with a number of features developed or tickets resolved. We are measuring progress by measuring how users interact with our website, understanding if value and growth startup assumptions are correct, and then tweaking the code to see if we can get expected user behaviour.
