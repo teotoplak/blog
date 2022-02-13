@@ -74,7 +74,7 @@ params:
     homeInfoParams:
         Title: "Hi, I'm Teo \U0001F44B"
         Content: >
-          Ex-Amazon Software Engineer. Creator of [JayOne.org](https://jayone.org)
+          Software engineer @ NFTPort | Ex-Amazon SDE | Creator of [JayOne.org](https://jayone.org)
           
     socialIcons:
         - name: email
